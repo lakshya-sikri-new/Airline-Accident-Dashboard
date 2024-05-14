@@ -54,10 +54,12 @@ Enables users to focus on specific aircraft models, facilitating targeted analys
 Drill-down by Accident Type
 
 Allows users to drill down into specific types of accidents (e.g., runway incursions, mid-air collisions), enabling in-depth investigation and remediation.
-Segmentation by Flight Route
-
-Facilitates segmentation of data by flight routes or destinations.
+Segmentation by Flight Route Facilitates segmentation of data by flight routes or destinations. 
 Enables comparisons and identification of routes with higher accident rates.
-Overall Impact
+
+# Overall Impact
 
 The Airline Accident Dashboard on Tableau serves as a vital tool for aviation safety officers and airline management. It provides actionable insights to mitigate risks, enhance safety protocols, and ultimately improve the overall safety record of the airline. Leveraging Tableau's robust visualization capabilities, stakeholders can effectively monitor, analyze, and address safety concerns, fostering a culture of continuous improvement and ensuring passenger and crew well-being.
+
+To view the Tableau Dashboard ,visit my profile :
+https://public.tableau.com/app/profile/lakshya.sikri/viz/AirlineAccidentAnalysis/AVIATIONACCIDENTANALYSIS?publish=yes
